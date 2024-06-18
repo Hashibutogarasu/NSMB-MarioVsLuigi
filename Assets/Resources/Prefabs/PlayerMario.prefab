@@ -10443,6 +10443,8 @@ MonoBehaviour:
   propellerTimer: 0
   propellerSpinTimer: 0
   fireballTimer: 0
+  swimTimer: 0
+  jumpHeldTimer: 0
   invincible: 0
   giantTimer: 0
   floorAngle: 0
@@ -10465,6 +10467,7 @@ MonoBehaviour:
   previousFramePosition: {x: 0, y: 0}
   onSpinner: {fileID: 0}
   pipeEntering: {fileID: 0}
+  small: 0
   swiming: 0
   step: 0
   alreadyGroundpounded: 0
